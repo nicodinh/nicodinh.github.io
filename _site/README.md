@@ -1,4 +1,4 @@
 ### Nicolas Azari
 ==================
 
-Developement and ysadmin tutorials
+Developement and sysadmin tutorials
