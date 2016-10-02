@@ -9,7 +9,7 @@ permalink:        /posts/:title/
 
 # User Configuration
 title:            Nicolas Azari
-tagline:          'Sysadmin and developer tutorials'
+tagline:          'Developement and sysadmin tutorials'
 description:      'I am biodegradable'
 url:              https://nicodinh.github.io/
 baseurl:          '/'
