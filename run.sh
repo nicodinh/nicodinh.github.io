@@ -1,3 +1,3 @@
 #jekyll build
 grunt
-jekyll serve
+jekyll serve --incremental
