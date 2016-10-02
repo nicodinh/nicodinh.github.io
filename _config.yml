@@ -20,6 +20,7 @@ gems:
 - jemoji
 - jekyll-redirect-from
 - jekyll-sitemap
+- jekyll-paginate
 
 # Author Info
 author:
@@ -28,20 +29,20 @@ author:
 
 # Social Integration
 social:
-  twitter:        
-  disqus:         
-  addthis_pubid:  
+  twitter:
+  disqus:
+  addthis_pubid:
 
 # Google Analytics Configuration
 # Proxy response must be in JSON and should have the fields - ga:pagePath, ga:pageview
 google_analytics:
-  tracking_id:      
-  super_proxy_url:  
+  tracking_id:
+  super_proxy_url:
 
 # Github
 github:
   repo:           https://github.com/nicodinh
-  feedback:       
+  feedback:
 
 # Version Info
 version:          0.0.0
